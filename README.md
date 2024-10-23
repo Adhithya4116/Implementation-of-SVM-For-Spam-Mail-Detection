@@ -25,7 +25,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 ```
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Adhithya Perumal.D
+Developed by: ADHITHYA PERUMAL D
 RegisterNumber:  212222230007
 ```
 ```python
